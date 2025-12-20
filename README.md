@@ -21,13 +21,13 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,blender&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css, assembly,js,cs,python,blender&theme=light" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVwdGFheDhlNm8zN2Q0b253d2x3dGpzYTRsNXhvNHpnaHVzZzFmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="250px" alt="k-on gif"><br>
+  <img src="https://media1.tenor.com/m /ua2pghKGg4YAAAAC/lucky-star-anime.gif" width="250px" alt="k-on gif"><br>
   <i>“Keep coding, keep dreaming. The sakura never stops blooming.” 🌸</i>
   <i>Sigue programando, sigue soñando. El sakura nunca deja de florecer.</i>
 </p>
