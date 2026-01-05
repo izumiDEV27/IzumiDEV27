@@ -11,7 +11,7 @@
 
 - 🌸 I love **anime**, **technology**, **coding** and **assembly**
 - 💬 Currently learning **Japanese laguage N4** and improving my **web development** skills  
-- 🔧 Building: [**K-ON! Fan Web (Esp-Latino)**](https://github.com/Hizui23/k-on27fanweb-esp-latino.net)
+- 🔧 Building static web: [**K-ON! Fan Web (Esp-Latino)**](https://k-on-ver-esp-fanweb-27-net.vercel.app)
 - 🗾 Dream: work in **Japan** developing **software or games**
 - 🎮 Otaku, gamer & always learning new stuff
 - 🖥🔧👀 engineering level knowledge of PCs and smartphone hardware, analist and critical...
