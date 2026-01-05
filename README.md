@@ -9,7 +9,7 @@
 
 ### 🧠 About me
 
-- 🌸 I love **anime**, **technology**, and **coding**
+- 🌸 I love **anime**, **technology**, **coding** and **assembly**
 - 💬 Currently learning **Japanese laguage N4** and improving my **web development** skills  
 - 🔧 Building: [**K-ON! Fan Web (Esp-Latino)**](https://github.com/Hizui23/k-on27fanweb-esp-latino.net)
 - 🗾 Dream: work in **Japan** developing **software or games**
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,blender,unity,unreal&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,blender,unity,unreal&theme=dark" />
 </p>
 
 ---
