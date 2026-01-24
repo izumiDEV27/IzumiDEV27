@@ -21,7 +21,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,blender,unity,unreal&theme=dark" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git, python, unity, unrealengine, vercel, webassembly, blender, android, godot, cs, c, assembly"
+    />
+  </a>
 </p>
 
 ---
