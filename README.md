@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">🌸 Konnichiwa, I'm <strong>Hizui23</strong> (izumiDEV27)</h1>
-<h3 align="center">💻 Developer • Anime & Japan Enthusiast • Future Game Dev</h3>
+<h3 align="center">💻 Low Level Developer • Anime & Japan Enthusiast • Future Game Dev</h3>
 
 ---
 
 ### 🧠 About me
 
-- 🌸 I love **anime**, **technology**, **coding** and **assembly**
+- 🌸 I love **anime**, **technology**, **coding** and <strong>assembly</strong>
 - 💬 Currently learning **Japanese laguage N4** and improving my **web development** skills  
 - 🔧 Building static web: [**K-ON! Fan Web (Esp-Latino)**](https://k-on-ver-esp-fanweb-27-net.vercel.app)
 - 🗾 Dream: work in **Japan** developing **software or games**
