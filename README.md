@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZna3I1ZTNwdXAzN2VldGNyZ3M0cXp0bzZnbzFlenMwZnNvMGlyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB2szZH5JSIU0/giphy.gif" width="100%" alt="sakura banner">
 </p>
 
-<h1 align="center">🌸 Konnichiwa, I'm <strong>Hizui23</strong> (izumiDEV27)</h1>
-<h3 align="center">💻 Low Level Developer • Anime & Japan Enthusiast • Future Game Dev</h3>
+<h1 align="center">🌸 Konnichiwa, I'm <strong>izumi23</strong> (izumiDEV27)</h1>
+<h3 align="center">💻 Low Level Developer • Anime & Japan Enthusiast • Future Game Dev <br> developer de bajo nivel// entusiasta del anime y japón, aspirante a GAME DEV</h3>
 
 ---
 
