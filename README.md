@@ -32,11 +32,9 @@
 I walk close to the metal,
 not because I hate abstractions,
 but because I want to understand.
-
 Frameworks come and go,
 dependencies rise and fall,
 but fundamentals stay.
-
 When the layers disappear,
 knowledge remains.
 ---
