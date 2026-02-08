@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m /ua2pghKGg4YAAAAC/lucky-star-anime.gif" width="250px" alt="k-on gif"><br>
+  <img src="https://media1.tenor.com/m/dZhxR_lXc1UAAAAC/chad-assembly.gif" width="250px" alt="assembly"><br>
   <i>“Keep coding, keep dreaming. The sakura never stops blooming.” 🌸</i>
   <i>Sigue programando, sigue soñando. El sakura nunca deja de florecer.</i>
 </p>
