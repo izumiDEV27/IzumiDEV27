@@ -29,7 +29,8 @@
 
 <p align="center">
   <img src="https://media1.tenor.com/m/dZhxR_lXc1UAAAAC/chad-assembly.gif" width="250px" alt="assembly"><br>
-<i>“Learn the metal first. Abstractions come later.” // Estudiar el metal primero, la abstarccion viene después</i>
+<i>“Learn the metal first. Abstractions come later.” // Estudiar el metal primero, la abstracción viene después</i>
+<h3>frameworks and dependency is more abstraction, i don't like this</h3>
   
 ---
   
