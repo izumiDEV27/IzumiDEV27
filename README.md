@@ -29,15 +29,10 @@
 
 <p align="center">
   <img src="https://media1.tenor.com/m/dZhxR_lXc1UAAAAC/chad-assembly.gif" width="250px" alt="assembly"><br>
-I walk close to the metal,
-not because I hate abstractions,
-but because I want to understand.
-Frameworks come and go,
-dependencies rise and fall,
-but fundamentals stay.
-When the layers disappear,
-knowledge remains.
+<i>“Learn the metal first. Abstractions come later.” // Estudiar el metal primero, la abstarccion viene después</i>
+  
 ---
-  <i>“Keep coding, keep dreaming. The sakura never stops blooming.” 🌸</i>
-  <i>Sigue programando, sigue soñando. El sakura nunca deja de florecer.</i>
+  
+<i>“Keep coding, keep dreaming. The sakura never stops blooming.” 🌸</i>
+<i>Sigue programando, sigue soñando. El sakura nunca deja de florecer.</i>
 </p>
