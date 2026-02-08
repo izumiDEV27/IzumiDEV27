@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🌸 Konnichiwa, I'm <strong>izumi23</strong> (izumiDEV27)</h1>
-<h3 align="center">💻 Low Level Developer • Anime & Japan Enthusiast • Future Game Dev <br> developer de bajo nivel// entusiasta del anime y japón, aspirante a GAME DEV</h3>
+<h3 align="center">💻 Low Level Developer • Anime & Japan Enthusiast • Future Game Dev <br> Developer de bajo nivel • entusiasta del anime y japón  • aspirante a GAME DEV</h3>
 
 ---
 
