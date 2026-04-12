@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack in progress
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,assembly,c,cpp,csharp,blender,android,unrealengine,unity,godot" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,java,assembly,c,cpp,csharp,blender,android,unrealengine,unity,godot" />
 
 
 
